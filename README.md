@@ -17,7 +17,7 @@ This project analyses student performance data using Python.
 - **Top student:** Dinithi
 - **Highest Subject Average:** English
 ## Visualization
-![Average Marks Chart](https://github.com/nilupulee-abayawikrama/Student-Performance-Analysis/commit/42bdfbd88af22cb595808bd6100ca46ceb65ede6#diff-e5fecb84d4f3c5689fa14f16343d3fada704a1c1b712ae9f349c3b1cc4d4952d)
+![Average Marks Chart](https://github.com/nilupulee-abayawikrama/Student-Performance-Analysis/blob/main/average_marks_chart.png?raw=true)
 ## Author
 Nilupulee Abayawikrama
 
