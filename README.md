@@ -2,20 +2,20 @@
 ## Overview
 This project analyses student performance data using Python.
 ## Tools Used
--**Python**
--**Pandas**
--**Matplotlib**
--**Jupyter Notebook**
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Jupyter Notebook**
 ## Features 
--Data loading 
--Statistical analysis
--Total marks calculation
--Average marks calculation
--Student ranking
--Data visualisation
+- Data loading 
+- Statistical analysis
+- Total marks calculation
+- Average marks calculation
+- Student ranking
+- Data visualisation
 ## Results
--**Top student:** Dinithi
--**Highest Subject Average:** English
+- **Top student:** Dinithi
+- **Highest Subject Average:** English
 ## Visualization
 ![Average Marks Chart]
 (average_marks_chart.png)
