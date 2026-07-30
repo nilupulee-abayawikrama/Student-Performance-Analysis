@@ -18,7 +18,7 @@ This project analyses student performance data using Python.
 - **Highest Subject Average:** English
 ## Visualization
 ![Average Marks Chart]
-(average_marks_chart.png)
+(./average_marks_chart.png)
 ## Author
 Nilupulee Abayawikrama
 
